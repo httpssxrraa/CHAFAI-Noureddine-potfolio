@@ -1,2 +1,2 @@
 # CHAFAI Noureddine potfolio
-oersonal web portfolio for NOUREDDINE
+personal web portfolio for NOUREDDINE
