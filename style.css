@@ -60,7 +60,7 @@ h1, h2, h3 { font-family: 'Montserrat', sans-serif; color: #1a2a44; margin-botto
 
 .video-carousel-wrapper { position: relative; max-width: 800px; margin: 0 auto; padding: 0 50px; overflow: hidden; aspect-ratio: 16 / 9; }
 
-.video-item { flex-shrink: 0; width: 100%; display: none; opacity: 0; transition: opacity 0.5s ease; }
+.video-item { flex-shrink: 0; width: 75%; display: none; opacity: 0; transition: opacity 0.5s ease; }
 
 .video-item.active { display: flex; justify-content: center; align-items: center; opacity: 1; }
 
